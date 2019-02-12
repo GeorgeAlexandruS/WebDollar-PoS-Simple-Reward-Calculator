@@ -6,11 +6,11 @@
       var currentDistribution = 5140000000; //this value must be updated manually or you can install webdollar explorer(see instructions)
 
       var yourStake = document.getElementById("stake").value;
-      var report = posReward / currentDistribution;
+      var rapport = posReward / currentDistribution;
 
-      var yourDailyPosReward = Math.round(report * yourStake) + ' Web$';
-      var yourMonthlyPosReward = Math.round(report * yourStake) * 30 + ' Web$';
-      var yourAnnualPosReward = Math.round(report * yourStake) * 360 + ' Web$';
+      var yourDailyPosReward = Math.round(rapport * yourStake) + ' Web$';
+      var yourMonthlyPosReward = Math.round(rapport * yourStake) * 30 + ' Web$';
+      var yourAnnualPosReward = Math.round(rapport * yourStake) * 360 + ' Web$';
 
       document.getElementById("dailyPos").innerHTML = yourDailyPosReward.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
       document.getElementById("monthlyPos").innerHTML = yourMonthlyPosReward.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");

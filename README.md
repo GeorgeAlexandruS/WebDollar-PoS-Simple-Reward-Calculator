@@ -3,7 +3,7 @@ This is a simple WebDollar Proof of Stake calculator, is does not calculate the 
 
 # Global stake amount
 You must install WebDollar Explorer from here to get the global PoS amount:
-https://github.com/thelazyprogrammer/webdollar-explorer-api/blob/master/LICENSE
+https://github.com/thelazyprogrammer/webdollar-explorer-api
 
 #Example of working calculator:
 https://webdollar.blog/george_alexandru/2019/webdollar-pos-calculator/

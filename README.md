@@ -1,0 +1,1 @@
+# WebDollar-PoS-Simple-Reward-Calculator

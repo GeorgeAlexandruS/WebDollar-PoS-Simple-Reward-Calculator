@@ -3,7 +3,7 @@
       const totalDailyReward = 12960000;
       const posReward = 0.666666666667 * totalDailyReward;
 
-      var currentDistribution = 7224421128; //this value must be updated manually or you can install webdollar explorer(see instructions)
+      var currentDistribution = 5140000000; //this value must be updated manually or you can install webdollar explorer(see instructions)
 
       var yourStake = document.getElementById("stake").value;
       var report = posReward / currentDistribution;

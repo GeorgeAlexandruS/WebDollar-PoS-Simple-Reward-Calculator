@@ -4,3 +4,6 @@ This is a simple WebDollar Proof of Stake calculator, is does not calculate the 
 # Global stake amount
 This can be updated manually or you can install WebDollar Explorer from here:
 https://github.com/thelazyprogrammer/webdollar-explorer-api/blob/master/LICENSE
+
+#Example of working calculator:
+https://webdollar.blog/wp-admin/post
